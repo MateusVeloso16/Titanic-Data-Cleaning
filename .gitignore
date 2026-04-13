@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Data files (IMPORTANT)
+*.csv
+*.xlsx
+*.json
+
+# Other
+.DS_Store
